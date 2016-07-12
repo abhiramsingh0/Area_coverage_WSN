@@ -1,0 +1,113 @@
+----------------------------------------------------------------------
+
+
+Tcl error: modinsp.cc#237: missing operand at _@_
+in expression "-_@_"
+    (parsing expression "-")
+    invoked from within
+"expr [lindex $bb 2]-[lindex $bb 0]"
+    (procedure "graphicalModuleWindow:adjustWindowSizeAndZoom" line 13)
+    invoked from within
+"graphicalModuleWindow:adjustWindowSizeAndZoom $w"
+    (procedure "createGraphicalModWindow" line 104)
+    invoked from within
+"createGraphicalModWindow .ptr0x935c480-2 """
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: modinsp.cc#756: ptr0x8e46220 not found
+    while executing
+"error "$tag not found""
+    (procedure "graphicalModuleWindow:getSubmodCoords" line 4)
+    invoked from within
+"graphicalModuleWindow:getSubmodCoords $c $modptr"
+    (procedure "graphicalModuleWindow:drawNextEventMarker" line 2)
+    invoked from within
+"graphicalModuleWindow:drawNextEventMarker .ptr0x91b3c78-2.c ptr0x8e46220 2"
+
+
+Tcl error: modinsp.cc#756: ptr0x8e46220 not found
+    while executing
+"error "$tag not found""
+    (procedure "graphicalModuleWindow:getSubmodCoords" line 4)
+    invoked from within
+"graphicalModuleWindow:getSubmodCoords $c $modptr"
+    (procedure "graphicalModuleWindow:drawNextEventMarker" line 2)
+    invoked from within
+"graphicalModuleWindow:drawNextEventMarker .ptr0x91b3c78-2.c ptr0x8e46220 2"
+
+
+Tcl error: modinsp.cc#756: ptr0x8f80b10 not found
+    while executing
+"error "$tag not found""
+    (procedure "graphicalModuleWindow:getSubmodCoords" line 4)
+    invoked from within
+"graphicalModuleWindow:getSubmodCoords $c $modptr"
+    (procedure "graphicalModuleWindow:drawNextEventMarker" line 2)
+    invoked from within
+"graphicalModuleWindow:drawNextEventMarker .ptr0x91b3c78-2.c ptr0x8f80b10 2"
+
+
+Tcl error: modinsp.cc#756: ptr0x8f80b10 not found
+    while executing
+"error "$tag not found""
+    (procedure "graphicalModuleWindow:getSubmodCoords" line 4)
+    invoked from within
+"graphicalModuleWindow:getSubmodCoords $c $modptr"
+    (procedure "graphicalModuleWindow:drawNextEventMarker" line 2)
+    invoked from within
+"graphicalModuleWindow:drawNextEventMarker .ptr0x91b3c78-2.c ptr0x8f80b10 2"
+
+
+Tcl error: modinsp.cc#756: ptr0x8e46220 not found
+    while executing
+"error "$tag not found""
+    (procedure "graphicalModuleWindow:getSubmodCoords" line 4)
+    invoked from within
+"graphicalModuleWindow:getSubmodCoords $c $modptr"
+    (procedure "graphicalModuleWindow:drawNextEventMarker" line 2)
+    invoked from within
+"graphicalModuleWindow:drawNextEventMarker .ptr0x91b3c78-2.c ptr0x8e46220 2"
+
+
+Tcl error: modinsp.cc#756: ptr0x8e46220 not found
+    while executing
+"error "$tag not found""
+    (procedure "graphicalModuleWindow:getSubmodCoords" line 4)
+    invoked from within
+"graphicalModuleWindow:getSubmodCoords $c $modptr"
+    (procedure "graphicalModuleWindow:drawNextEventMarker" line 2)
+    invoked from within
+"graphicalModuleWindow:drawNextEventMarker .ptr0x91b3c78-2.c ptr0x8e46220 2"
+
+
+Tcl error: modinsp.cc#633: bad window path name ""
+    while executing
+"winfo toplevel [focus]"
+    invoked from within
+"if [catch {
+
+       # lower all range indicators below the icons
+       $c lower "range"
+
+       # parse display string. note: we need "1" as last par..."
+    (procedure "graphicalModuleWindow:drawEnclosingModule" line 11)
+    invoked from within
+"graphicalModuleWindow:drawEnclosingModule .ptr0x91b3c78-2.c ptr0x91b3c78 {mynet} bgb=1000,1000 {} "
+
+
+Tcl error: modinsp.cc#603: invalid command name ".ptr0x91b3c78-2.c"
+    while executing
+".ptr0x91b3c78-2.c raise bubble"
+
+
+Tcl error: modinsp.cc#604: invalid command name ".ptr0x91b3c78-2.c"
+    while executing
+"$c bbox all"
+    (procedure "graphicalModuleWindow:setScrollRegion" line 5)
+    invoked from within
+"graphicalModuleWindow:setScrollRegion .ptr0x91b3c78-2 0"
+
+

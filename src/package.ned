@@ -1,0 +1,3 @@
+package newnet;
+
+@license(LGPL);
